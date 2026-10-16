@@ -9,6 +9,17 @@ What's new: Shared link support.
 ![Performance Test](.example_images/Screenshot%202026-07-15%20230740.png)
 
 > **⚠️ Experimental:** This project is still under development and may not work in all situations. Use it at your own risk.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=developeranaz%2FMEGA-INDEX-CLOUDFLARE&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=developeranaz/MEGA-INDEX-CLOUDFLARE&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=developeranaz/MEGA-INDEX-CLOUDFLARE&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=developeranaz/MEGA-INDEX-CLOUDFLARE&type=date&legend=top-left" />
+ </picture>
+</a>
+
 # 📖 Steps to Use 
 Two deployment modes are available:
 
