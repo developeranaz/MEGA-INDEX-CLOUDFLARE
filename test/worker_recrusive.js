@@ -1,7 +1,7 @@
 // MEGA.nz Public Shared Link Indexer
 // Supports viewing and downloading files from public mega.nz shared links only.
 // No MEGA account (session id / master key) required.
-// Edited on 15-07-2026 IST
+// Edited on 15-11-2026 IST
 
 const publicTreeCache = {};
 
